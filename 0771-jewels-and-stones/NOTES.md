@@ -1,0 +1,1 @@
+return S.replaceAll("[^" + J + "]", "").length();
